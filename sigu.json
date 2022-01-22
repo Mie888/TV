@@ -11,7 +11,7 @@
 	"cateId": "/@href",
 	"cateIdR": "/type/(\\S+).html",
 	"cateManual": {
-		"电影": "m",
+		"电影": "m1",
 		"连续剧": "tv",
 		"综艺": "va",
 		"动漫": "ct"
